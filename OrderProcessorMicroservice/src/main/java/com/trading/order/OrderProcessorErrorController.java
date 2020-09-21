@@ -1,4 +1,4 @@
-package com.tradingorder;
+package com.trading.order;
 
 import javax.servlet.http.HttpServletResponse;
 

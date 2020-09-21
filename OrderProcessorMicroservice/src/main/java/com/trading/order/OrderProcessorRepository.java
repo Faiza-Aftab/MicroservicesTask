@@ -1,4 +1,4 @@
-package com.tradingorder;
+package com.trading.order;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

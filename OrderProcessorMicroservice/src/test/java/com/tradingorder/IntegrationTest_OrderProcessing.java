@@ -14,6 +14,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
 import com.domain.object.Order;
+import com.trading.order.OrderProcessorApplication;
 
 @SpringBootTest(classes = OrderProcessorApplication.class, webEnvironment = WebEnvironment.RANDOM_PORT)
 

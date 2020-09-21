@@ -8,6 +8,8 @@ import org.springframework.boot.test.web.client.TestRestTemplate;
 import org.springframework.boot.web.server.LocalServerPort;
 import org.springframework.http.HttpHeaders;
 
+import com.trading.order.OrderProcessorApplication;
+
 
 @SpringBootTest(classes = OrderProcessorApplication.class, webEnvironment = WebEnvironment.RANDOM_PORT)
 
